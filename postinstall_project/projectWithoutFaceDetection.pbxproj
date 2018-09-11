@@ -224,7 +224,6 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_SEARCH_PATHS = (
-					"$(SRCROOT)/../../../ios/**",
 					"${BUILT_PRODUCTS_DIR}/**",
                                         "$(SRCROOT)/../../ios/**",
 				);
@@ -278,7 +277,6 @@
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_SEARCH_PATHS = (
-					"$(SRCROOT)/../../../ios/**",
 					"${BUILT_PRODUCTS_DIR}/**",
                                         "$(SRCROOT)/../../ios/**",
 				);
